@@ -1,6 +1,10 @@
 #Ignore openweathermap API
 config.py
 
+#Ignore practice notebook
+WeatherPy.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
