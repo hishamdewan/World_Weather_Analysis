@@ -2,7 +2,6 @@
 config.py
 
 #Ignore practice notebook
-WeatherPy.ipynb
 random_numbers.ipynb
 API_practice.ipynb
 
