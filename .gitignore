@@ -4,6 +4,7 @@ config.py
 #Ignore practice notebook
 random_numbers.ipynb
 API_practice.ipynb
+GMapsWorked.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
