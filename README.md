@@ -11,4 +11,4 @@ I provided a sample itinerary of 4 cities and driving direction using Google Dir
 ![Vacation_Itinerary](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 The sample itinerary of 4 cities has a map that uses the pop-up markers to display the destination, weather data, and recommended hotels. 
-![Vacation_Itinerary2](/Vacation_Itinerary/citipyWeatherPy_travel_map_markers.png)
+![Vacation_Itinerary](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
